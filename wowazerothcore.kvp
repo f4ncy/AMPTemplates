@@ -32,3 +32,4 @@ Meta.EndpointURIFormat=
 Meta.OS=Linux
 Meta.URL=https://github.com/DadsMmoLab/dads-mmo-lab
 Meta.AppConfigId=f84b6f12-9c32-4e89-8d65-3b9a1c512345
+Meta.MinAMPVersion=2.5.0.0
